@@ -39,7 +39,7 @@
         
 - Ethereum Chain
 -       http://chainshub.xyz/api/eth/mainnet
-        http://chainshub.xyz/api/eth/testnet
+        http://chainshub.xyz/api/eth/testnet //rinkedby testnet
 
 ## Daftar Token 
 - BUSD (SmartChain)
